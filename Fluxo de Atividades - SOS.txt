@@ -1,0 +1,47 @@
+USUÁRIO (Pode ser um Cliente ou Empresa)
+
+    USUÁRIO NÃO LOGADO
+        1º - user-screen-home-page (Home Page - Não logado)
+
+        2º - user-screen-schedule (Tela de Agendamento - Não logado)
+
+        	2.1º - user-screen-create-new-account (Tela de Criação de Conta)
+
+        	2.2º - access-login (Tela de Login)
+
+
+    USUÁRIO LOGADO (Cliente)
+        4º - user-screen-schedule-logado (Tela de Agendamento - Logado)
+
+		4.1º Responder Ficha de Observação (Tela Ainda Não Criada)
+
+
+        5º - user-screen-profile-appointments (Tela dos Compromissos Marcados)
+
+        	5.1º - Ficha de Observação (Tela Ainda Não Criada)
+
+        6º - user-screen-profile-my-datas (Tela Meus Dados)
+
+        7º - user-screen-profile-my-localization (Tela Minha Endereço)
+
+    LOGADO (Empresa)
+	4º - company-screen-home-page (Home Page da Empresa)
+
+	5º - company-screen-schedule (Agenda da Empresa)
+	
+		5.1º - Criar Agenda(Tela Ainda Não Criada)
+
+		5.2º - Ediar Agenda(Tela Ainda Não Criada)
+
+		5.3º - Marcar Compromisso de Cliente não Cadastrado(Tela Ainda Não Criada)
+
+	6º - company-screen-appointments-scheduled (Tela dos Compromissos Marcados da Empresa)
+
+		6.1º - Ficha de Observação da Empresa
+
+	7º - company-screen-observation-sheet (Tela de Ficha de Obsrvação)
+
+	8º - company-screen-data (Tela Dados da Empresa)
+    	
+
+
